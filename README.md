@@ -1,0 +1,1 @@
+# shanickgauthier.classicsolitairedeeplink.github.io
