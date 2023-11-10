@@ -20,12 +20,14 @@ li {
 }
 
 button {
-    padding: 10px 20px;
+    width: 500px;
+    height: 400px;
     background-color: #0074d9;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    font-size: 60px;
 }
 
 button:hover {
